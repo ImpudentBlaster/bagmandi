@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "bagmandi"
+  },
+  "targets": {
+    "bagmandi": {
+      "hosting": {
+        "admin": [
+          "admin-bagmandi"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
